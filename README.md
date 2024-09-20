@@ -1,10 +1,10 @@
-# Project Website
+# Predicting-Future-Driving-Decisions-in-an-Accident-Situation-From-Videos: website
 
 This repository jekyll-ized the source code for the [Nerfies website](https://nerfies.github.io).
 You only need to change the content of [index.md](/index.md). 
 It's possible to only write in markdown, but you can also use HTML to achieve fancier effects.
 
-Here is an [example website](https://shunzh.github.io/project_website/).
+Here is an [example website](https://hoesungryu.github.io/Predicting-Future-Driving-Decisions-in-an-Accident-Situation-From-Videos-website/).
 
 ## Test it locally
 
