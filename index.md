@@ -4,10 +4,11 @@ permalink: /
 
 title: Predicting Future Driving Decisions in an Accident Situation From Videos
 authors:
-    Hoe Sung Ryu
-    Christian Wallraven
+    Hoe Sung Ryu$^{1}$, Christian Wallraven$^{1,3}$
 affiliations:
-    Artificial Intelligence Korea University, Seoul, Korea 
+    Artificial Intelligence Korea University, Seoul, Korea$^{1}$<br>
+    Intelligence Korea University, Seoul, Korea$^{2}$<br>
+    Intelligence Korea University, Seoul, Korea$^{3}$
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/topics/turing-machines
@@ -19,7 +20,7 @@ data: https://huggingface.co/docs/datasets
     <div class="column is-four-fifths">
         <h2>Abstract</h2>
         <div class="content has-text-justified">
-Can human observers predict which of two directions a car will take in an accident situation when watching videos \textit{before the event} recorded from the driver’s first-person perspective? And is it possible to use the observers’ eye-gaze data to predict their direction-choices? In our study with $N=30$ participants, we first show that observers identify the correct direction already from $4$ seconds(s) before the accident event with performance rising to $92\%$ at $1$s prior. Statistical analyses of the eye gaze data of the observers further identify patterns of gaze behaviors differentiating the observers’ choices. We then use an explainability approach to show that graph networks pay attention to similar scene parts as humans. Our results showcase the remarkable ability of human action predictions and that these predictions during complex, dynamic viewing can be classified from gaze data alone. 
+Can human observers predict which of two directions a car will take in an accident situation when watching videos <em><strong>before the event</strong></em> recorded from the driver’s first-person perspective? And is it possible to use the observers’ eye-gaze data to predict their direction-choices? In our study with $N=30$ participants, we first show that observers identify the correct direction already from $4$ seconds(s) before the accident event with performance rising to $92\%$ at $1$s prior. Statistical analyses of the eye gaze data of the observers further identify patterns of gaze behaviors differentiating the observers’ choices. We then use an explainability approach to show that graph networks pay attention to similar scene parts as humans. Our results showcase the remarkable ability of human action predictions and that these predictions during complex, dynamic viewing can be classified from gaze data alone. 
         </div>
     </div>
 </div>
