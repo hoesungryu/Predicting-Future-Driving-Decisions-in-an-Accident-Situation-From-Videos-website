@@ -2,11 +2,12 @@
 layout: project_page
 permalink: /
 
-title: On Computable Numbers, with an Application to the Entscheidungsproblem
+title: Predicting Future Driving Decisions in an Accident Situation From Videos
 authors:
-    A. M. Turing
+    Hoe Sung Ryu
+    Christian Wallraven
 affiliations:
-    King's College, Cambridge
+    Artificial Intelligence Korea University, Seoul, Korea 
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/topics/turing-machines
@@ -18,19 +19,7 @@ data: https://huggingface.co/docs/datasets
     <div class="column is-four-fifths">
         <h2>Abstract</h2>
         <div class="content has-text-justified">
-The "computable" numbers may be described briefly as the real
-numbers whose expressions as a decimal are calculable by finite means.
-Although the subject of this paper is ostensibly the computable numbers.
-it is almost equally easy to define and investigate computable functions
-of an integral variable or a real or computable variable, computable
-predicates, and so forth. The fundamental problems involved are,
-however, the same in each case, and I have chosen the computable numbers
-for explicit treatment as involving the least cumbrous technique. I hope
-shortly to give an account of the relations of the computable numbers,
-functions, and so forth to one another. This will include a development
-of the theory of functions of a real variable expressed in terms of computable
-numbers. According to my definition, a number is computable
-if its decimal can be written down by a machine...
+Can human observers predict which of two directions a car will take in an accident situation when watching videos \textit{before the event} recorded from the driver’s first-person perspective? And is it possible to use the observers’ eye-gaze data to predict their direction-choices? In our study with $N=30$ participants, we first show that observers identify the correct direction already from $4$ seconds(s) before the accident event with performance rising to $92\%$ at $1$s prior. Statistical analyses of the eye gaze data of the observers further identify patterns of gaze behaviors differentiating the observers’ choices. We then use an explainability approach to show that graph networks pay attention to similar scene parts as humans. Our results showcase the remarkable ability of human action predictions and that these predictions during complex, dynamic viewing can be classified from gaze data alone. 
         </div>
     </div>
 </div>
@@ -71,7 +60,7 @@ He used the concept of a universal Turing machine to prove that the set of compu
 ## Significance
 Turing's paper laid the foundation for the theory of computation and had a profound impact on the development of computer science. The Turing machine became a fundamental concept in theoretical computer science, serving as a theoretical model for studying the limits and capabilities of computation. Turing's work also influenced the development of programming languages, algorithms, and the design of modern computers.
 
-## Citation
+<!-- ## Citation
 ```
 @article{turing1936computable,
   title={On computable numbers, with an application to the Entscheidungsproblem},
@@ -82,4 +71,4 @@ Turing's paper laid the foundation for the theory of computation and had a profo
   pages={5},
   year={1936}
 }
-```
+``` -->
