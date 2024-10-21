@@ -38,6 +38,10 @@ We used videos of decision-making during an accident situation during driving [1
 ## Significance
 Our study demonstrates humans' remarkable predictive abilities in complex and dynamic situations with above chance prediction around 3 seconds before the event. Moreover, the GCN was able to decode the decisions purely from gaze data at around 4 seconds before the event.
 
+## Reference: 
+- [1] Ju et al. (2020). Acoustic cues increase situational awareness in accident situations: A VR car-driving study, IEEE transactions on intelligent transportation systems.
+
+
 <!-- ## Citation
 ```
 @article{turing1936computable,
