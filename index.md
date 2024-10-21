@@ -4,7 +4,7 @@ permalink: /
 
 title: Predicting Future Driving Decisions in an Accident Situation From Videos
 authors:
-    Hoe Sung Ryu$^{1}$, Uijong Ju$^{3}, Christian Wallraven$^{1,2}$
+    Hoe Sung Ryu$^{1}$, Uijong Ju$^{3}$, Christian Wallraven$^{1,2}$
 affiliations:
     Department of Artificial Intelligence, Korea University, Seoul, Korea$^{1}$<br>
     Department of Brain and Cognitive Engineering, Korea University , Seoul, Korea$^{2}$<br>
