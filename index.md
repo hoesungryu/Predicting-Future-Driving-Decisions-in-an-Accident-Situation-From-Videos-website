@@ -9,9 +9,10 @@ affiliations:
     Department of Artificial Intelligence, Korea University, Seoul, Korea$^{1}$<br>
     Department of Brain and Cognitive Engineering, Korea University , Seoul, Korea$^{2}$<br>
     Department of Information Display, Kyung Hee University, Seoul, Korea$^{3}$
-video: https://youtu.be/5vz4BU2W5_w
-# paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+video: https://youtu.be/5vz4BU2W5_w/
+paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10765283
 # code: https://github.com/topics/turing-machines
+# <!-- 
 ---
 
 ![Overview of the research framework](/static/image/overview.png)
@@ -42,15 +43,14 @@ Our study demonstrates humans' remarkable predictive abilities in complex and dy
 - [1] Ju et al. (2020). Acoustic cues increase situational awareness in accident situations: A VR car-driving study, IEEE transactions on intelligent transportation systems.
 
 
-<!-- ## Citation
+## Citation
 ```
-@article{turing1936computable,
-  title={On computable numbers, with an application to the Entscheidungsproblem},
-  author={Turing, Alan Mathison},
-  journal={Journal of Mathematics},
-  volume={58},
-  number={345-363},
-  pages={5},
-  year={1936}
+@inproceedings{ryu2024predicting,
+  title={Predicting Future Driving Decisions in an Accident Situation From Videos: A Combined Behavioral, Eye Gaze, and Computational Analysis},
+  author={Ryu, Hoe Sung and Ju, Uijong and Wallraven, Christian},
+  booktitle={2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)},
+  pages={391--392},
+  year={2024},
+  organization={IEEE}
 }
-``` -->
+```
